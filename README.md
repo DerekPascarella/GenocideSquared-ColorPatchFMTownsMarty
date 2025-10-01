@@ -1,4 +1,4 @@
-<h1>Genocide Square</h1>
+<h1>Genocide^2 (Genocide Square)</h1>
 <img width="162" height="229" align="right" src="https://github.com/DerekPascarella/GenocideSquare-ColorPatchFMTownsMarty/blob/main/cover.jpg?raw=true">A patch to correct color palette corruption when playing "Genocide Square" on the FM Towns Marty, leveraging TOWNS OS V2.1 L40, which fixes the issues seen in two of the game's intro sequences.  Below, the corrected versions of two examples instances can be seen.
 <br><br>
 <b>Download patch:</b> <a href="https://github.com/DerekPascarella/GenocideSquare-ColorPatchFMTownsMarty/raw/main/Genocide%20Square%20(Marty%20Version).xdelta">Genocide Square (Marty Version).xdelta</a>
